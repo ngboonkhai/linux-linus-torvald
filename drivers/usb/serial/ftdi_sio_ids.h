@@ -1612,3 +1612,16 @@
  */
 #define GMC_VID				0x1cd7
 #define GMC_Z216C_PID			0x0217 /* GMC Z216C Adapter IR-USB */
+
+/*
+ *  Altera USB Blaster 3(http://www.altera.com).
+ */
+#define ALTR_UB3_VID			0x09fb
+#define ALTR_UB3_6022_PID		0x6022
+#define ALTR_UB3_6025_PID		0x6025
+#define ALTR_UB3_6026_PID		0x6026
+#define ALTR_UB3_6029_PID		0x6029
+#define ALTR_UB3_602A_PID		0x602A
+#define ALTR_UB3_602C_PID		0x602C
+#define ALTR_UB3_602D_PID		0x602D
+#define ALTR_UB3_602E_PID		0x602E
